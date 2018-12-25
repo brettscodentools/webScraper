@@ -11,7 +11,7 @@
     pandas
 
 ## installing
-    
+
     this script runs as is from the command line
 
 ## built with
