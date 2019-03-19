@@ -9,10 +9,10 @@
 
 ## Built with:
 
-*requests
-*beautiful soup
-*regular expressions
-*pandas
+* requests
+* beautiful soup
+* regular expressions
+* pandas
 
 ## How to use:
 
