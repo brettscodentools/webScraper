@@ -18,18 +18,18 @@
 
     Run the scrape function, give the webpage you want to scrape as the arguement
     
-![Alt Text](https://github.com/bstephen6/webScraper/docs/running_scraper.png)
+![Alt Text](https://github.com/bstephen6/webScraper/tree/master/docs/running_scraper.png)
 
 
 ## Example Target:
 
     Example of target webpage:
 
-![terminal screenshot](https://github.com/bstephen6/webScraper/docs/example_page_scraped.png)
+![terminal screenshot](https://github.com/bstephen6/webScraper/tree/master/docs/example_page_scraped.png)
 
 ## Example Output:
 
     Example of the output from the Example target website:
 
-![Terminal Output](https://github.com/bstephen6/webScraper/docs/scraper_output.png)
+![Terminal Output](https://github.com/bstephen6/webScraper/tree/master/docs/scraper_output.png)
 
