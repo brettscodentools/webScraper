@@ -1,22 +1,36 @@
-# Python time and location webscraper
+# Python hours of operation time scraper
 
-    This webscraper uses beautiful soup and regular expressions to extract time and locations..
-    .. from raw webpage text so be later used to fill a database with times and locations
+    This webscraper script uses beautiful soup and regular expressions to extract hours of operation from webpages
 
-## prerequisites
+## Prerequisites:
 
-    the packages you'll need to install to run this script are
+    *Beautiful soup
+    *pandas
 
-    Beautiful soup
-    pandas
+## Built with:
 
-## installing
+    *requests
+    *beautiful soup
+    *regular expressions
+    *pandas
 
-    this script runs as is from the command line
+## How to use:
 
-## built with
+    Run the scrape function, give the webpage you want to scrape as the arguement
+    
+    ![terminal screenshot](/docs/running_scraper.png)
+    Format: ![Alt Text](url)
 
-    requests
-    beautiful soup
-    regular expressions
-    pandas
+## Example Target:
+
+    Example of target webpage:
+
+    ![terminal screenshot](/docs/example_page_scraped.png)
+    Format: ![Alt Text](url)
+
+## Example Output:
+
+    Example of the output from the Example target website:
+
+    ![terminal screenshot](/docs/scraper_output.png)
+    Format: ![Alt Text](url)
